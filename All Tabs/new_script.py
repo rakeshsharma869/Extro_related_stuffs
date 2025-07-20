@@ -15,7 +15,6 @@ db_config = {
 
 table_name = "products"
 
-# Excel to DB column mapping
 column_mapper = {
     "Title": "title",
     "Description": "description",
@@ -36,14 +35,11 @@ column_mapper = {
     "Version": "version"
 }
 
+sku_source_column = "Products ID"
 
-sku_source_column = "Products ID"  # For SKU generation
-
-# Fields expected to be integers or floats
 integer_fields = ['stock', 'minimum_order_quantity']
 float_fields = ['price', 'discount_percentage', 'rating', 'weight']
 
-# Fields expected in table
 table_fields = [
     'title', 'description', 'category', 'subcategory', 'price', 'discount_percentage',
     'rating', 'stock', 'brand', 'weight', 'warranty_information',
@@ -51,7 +47,6 @@ table_fields = [
     'minimum_order_quantity', 'thumbnail', 'version', 'sku'
 ]
 
-# Default values for missing fields
 default_values = {
     "title": "Untitled Product",
     "description": "No description available.",
@@ -73,7 +68,6 @@ default_values = {
     "sku": "UNKNOWN"
 }
 
-
 # --------------------- LOAD AND CLEAN DATA ---------------------
 try:
     df = pd.read_excel(excel_file, nrows=200)
@@ -82,19 +76,15 @@ try:
     if sku_source_column not in df.columns:
         raise Exception(f"Missing required column '{sku_source_column}' in Excel.")
 
-    # Add SKU from "Products ID"
     df['sku'] = df[sku_source_column].astype(str)
 
-    # Rename columns based on mapping (ignore columns not in DB)
     mapped_cols = {k: v for k, v in column_mapper.items() if k in df.columns and v in table_fields}
     df = df.rename(columns=mapped_cols)
 
-    # Ensure all table fields exist in the dataframe
     for field in table_fields:
         if field not in df.columns:
             df[field] = None
 
-    # Reorder columns
     df = df[table_fields]
 
     # Fill missing values with defaults
@@ -103,7 +93,6 @@ try:
             lambda x: default_values[col] if pd.isna(x) or str(x).strip().lower() in ["", "nan"] else x
         )
 
-    # Type-safe conversions
     def safe_int(val):
         try:
             val = float(val)
@@ -125,7 +114,22 @@ try:
     for col in float_fields:
         df[col] = df[col].apply(safe_float)
 
-    # Final insert values
+    # Drop rows where title is missing or default
+    df = df[df['title'].str.strip().str.lower() != default_values['title'].lower()]
+    df = df[df['title'].str.strip() != ""]
+
+    if df.empty:
+        print("❌ No valid records with non-empty 'title' found. Nothing to insert.")
+        exit()
+
+    # Construct thumbnail URL dynamically
+    def generate_thumbnail_url(row):
+        safe_category = str(row['category']).strip().replace(" ", "%20")
+        safe_sku = str(row['sku']).strip()
+        return f"https://raw.githubusercontent.com/rakeshsharma869/Extro_related_stuffs/refs/heads/master/All%20Tabs/{safe_category}/{safe_sku}.png"
+
+    df['thumbnail'] = df.apply(generate_thumbnail_url, axis=1)
+
     values = df.where(pd.notnull(df), None).values.tolist()
 
 except Exception as e:

@@ -4433,3 +4433,280 @@
 2025-08-16 15:51:21,551 - INFO - Failed Uploads: 50
 2025-08-16 15:51:21,551 - INFO - Success Rate: 77.5%
 2025-08-16 15:51:21,552 - INFO - ==================================================
+2025-08-16 16:39:31,041 - INFO - Successfully loaded Excel file: extro.xls
+2025-08-16 16:39:31,041 - INFO - Loaded 222 rows of data
+2025-08-16 16:39:31,043 - INFO - Processing batch 1 (5 products)
+2025-08-16 16:39:31,388 - INFO - Successfully posted product: "Wall Mounted Bib Tap with Lever Handle"
+2025-08-16 16:39:31,434 - INFO - Successfully posted product: "Extended Wall Mounted Bib Tap with Lever Handle"
+2025-08-16 16:39:31,453 - INFO - Successfully posted product: "Angle Valve with Handle"
+2025-08-16 16:39:31,482 - INFO - Successfully posted product: "Extro Basin Mixer with Single Lever"
+2025-08-16 16:39:31,512 - INFO - Successfully posted product: "Extro Kia Wall Mixer with L-Bend for Overhead and Hand Shower"
+2025-08-16 16:39:31,513 - INFO - Processing batch 2 (5 products)
+2025-08-16 16:39:31,544 - INFO - Successfully posted product: "Extro Angle Valve with Wall Flange and Dual Outlet"
+2025-08-16 16:39:31,564 - INFO - Successfully posted product: "Extro Wall Mounted Sink Tap with Swivel Spout"
+2025-08-16 16:39:31,592 - INFO - Successfully posted product: "Extro Table Mounted Sink Mixer with Swivel Spout"
+2025-08-16 16:39:31,619 - INFO - Successfully posted product: "Extro Kia Table Mounted Sink Mixer"
+2025-08-16 16:39:31,652 - INFO - Successfully posted product: "Extro Wall Mounted Sink Mixer with Swivel Spout"
+2025-08-16 16:39:31,653 - INFO - Processing batch 3 (5 products)
+2025-08-16 16:39:31,682 - INFO - Successfully posted product: "Extro Modern Wall Mixer with L-Bend for Overhead & Hand Shower"
+2025-08-16 16:39:31,711 - INFO - Successfully posted product: "Wall Mixer with L-Bend Pipe (Telephonic Shower Provision)"
+2025-08-16 16:39:31,715 - WARNING - Skipping row 13: Missing title
+2025-08-16 16:39:31,720 - WARNING - Skipping row 14: Missing title
+2025-08-16 16:39:31,737 - INFO - Successfully posted product: "Concealed Basin Mixer Body with Lever Handle"
+2025-08-16 16:39:31,740 - INFO - Processing batch 4 (5 products)
+2025-08-16 16:39:31,748 - WARNING - Skipping row 16: Missing title
+2025-08-16 16:39:31,771 - INFO - Successfully posted product: "Extro Bib Cock – Round Handle"
+2025-08-16 16:39:31,813 - INFO - Successfully posted product: "Extro Long Body Bib Cock – Round Handle"
+2025-08-16 16:39:31,842 - INFO - Successfully posted product: "Extro Angular Stop Cock with Flange – Round Handle"
+2025-08-16 16:39:31,878 - INFO - Successfully posted product: "Extro Pillar Cock – Round Handle"
+2025-08-16 16:39:31,879 - INFO - Processing batch 5 (5 products)
+2025-08-16 16:39:31,913 - INFO - Successfully posted product: "Extro Two-Way Bib Cock with Round Handle"
+2025-08-16 16:39:31,947 - INFO - Successfully posted product: "Extro Two-Way Angle Cock with Dual Control Handle"
+2025-08-16 16:39:31,981 - INFO - Successfully posted product: "Extro Swan Neck Tap – Wall Mounted"
+2025-08-16 16:39:32,015 - INFO - Successfully posted product: "Extro Swan Neck Tap – Table Mounted"
+2025-08-16 16:39:32,241 - INFO - Successfully posted product: "Extro Swan Neck Dual Handle Sink Tap – Table Mounted"
+2025-08-16 16:39:32,242 - INFO - Processing batch 6 (5 products)
+2025-08-16 16:39:32,310 - INFO - Successfully posted product: "Extro Curve Spout Wall Mixer – Twin Knob Design"
+2025-08-16 16:39:32,349 - INFO - Successfully posted product: "Extro Wall Mixer with Overhead & Hand Shower Provision – 3-in-1"
+2025-08-16 16:39:32,412 - INFO - Successfully posted product: "Extro Wall Mixer with Bend Pipe for Overhead Shower"
+2025-08-16 16:39:32,416 - WARNING - Skipping row 29: Missing title
+2025-08-16 16:39:32,421 - WARNING - Skipping row 30: Missing title
+2025-08-16 16:39:32,423 - INFO - Processing batch 7 (5 products)
+2025-08-16 16:39:32,494 - INFO - Successfully posted product: "Extro Concealed Stop Cock – Round Handle"
+2025-08-16 16:39:32,498 - WARNING - Skipping row 32: Missing title
+2025-08-16 16:39:32,552 - INFO - Successfully posted product: Extro Kia Wall Mounted Basin Tap (Single Lever)
+2025-08-16 16:39:32,597 - INFO - Successfully posted product: Extro Kia Wall Mounted Bath Spout (Single Lever)
+2025-08-16 16:39:32,663 - INFO - Successfully posted product: Extro Kia Angle Valve
+2025-08-16 16:39:32,664 - INFO - Processing batch 8 (5 products)
+2025-08-16 16:39:32,718 - INFO - Successfully posted product: Extro Kia Pillar Cock
+2025-08-16 16:39:32,769 - INFO - Successfully posted product: Extro Kia 2-in-1 Bib Cock
+2025-08-16 16:39:32,817 - INFO - Successfully posted product: Extro Kia Angle Cock 2-in-1
+2025-08-16 16:39:32,841 - INFO - Successfully posted product: Extro Kia Sink Cock
+2025-08-16 16:39:32,863 - INFO - Successfully posted product: Extro Kia Sink Mixer 
+2025-08-16 16:39:32,864 - INFO - Processing batch 9 (5 products)
+2025-08-16 16:39:32,895 - INFO - Successfully posted product: Extro Kia Table Mount Sink Mixer
+2025-08-16 16:39:32,915 - INFO - Successfully posted product: Extro Kia Wall Mounted Sink Mixer
+2025-08-16 16:39:32,934 - INFO - Successfully posted product: Extro Kia Wall Mixer with Overhead & Spout 
+2025-08-16 16:39:32,966 - INFO - Successfully posted product: Extro Fusion Wall Mixer with L-Bend & Shower Provision
+2025-08-16 16:39:32,975 - WARNING - Skipping row 45: Missing title
+2025-08-16 16:39:32,977 - INFO - Processing batch 10 (5 products)
+2025-08-16 16:39:32,982 - WARNING - Skipping row 46: Missing title
+2025-08-16 16:39:32,987 - WARNING - Skipping row 47: Missing title
+2025-08-16 16:39:32,994 - WARNING - Skipping row 48: Missing title
+2025-08-16 16:39:33,028 - INFO - Successfully posted product: "Extro Wall-Mounted Bib Cock"
+2025-08-16 16:39:33,059 - INFO - Successfully posted product: "Extro Long Body Bib Cock"
+2025-08-16 16:39:33,061 - INFO - Processing batch 11 (5 products)
+2025-08-16 16:39:33,090 - INFO - Successfully posted product: "Extro Angular Stop Cock"
+2025-08-16 16:39:33,128 - INFO - Successfully posted product: "Extro Pillar Tap / Basin Mixer"
+2025-08-16 16:39:33,153 - INFO - Successfully posted product: "Extro Wall Mixer (Non-Telephonic)"
+2025-08-16 16:39:33,193 - INFO - Successfully posted product: "Extro 2-Way Angle Valve with Wall Flange"
+2025-08-16 16:39:33,216 - INFO - Successfully posted product: "Extro Wall Mounted Sink Tap with Swivel Spout"
+2025-08-16 16:39:33,217 - INFO - Processing batch 12 (5 products)
+2025-08-16 16:39:33,260 - INFO - Successfully posted product: "Extro Table Mounted Sink Tap with Swivel Spout"
+2025-08-16 16:39:33,294 - INFO - Successfully posted product: "Extro Pillar Cock with Swinging Spout – Dual Handle"
+2025-08-16 16:39:33,319 - INFO - Successfully posted product: "Extro Wall Mounted Sink Mixer"
+2025-08-16 16:39:33,354 - INFO - Successfully posted product: "Extro Wall Mixer with Overhead Shower Bend"
+2025-08-16 16:39:33,384 - INFO - Successfully posted product: "Extro Wall Mixer with Crutch & Overhead Bend"
+2025-08-16 16:39:33,387 - INFO - Processing batch 13 (5 products)
+2025-08-16 16:39:33,396 - WARNING - Skipping row 61: Missing title
+2025-08-16 16:39:33,400 - WARNING - Skipping row 62: Missing title
+2025-08-16 16:39:33,428 - INFO - Successfully posted product: "Extro Concealed Stop Cock"
+2025-08-16 16:39:33,432 - WARNING - Skipping row 64: Missing title
+2025-08-16 16:39:33,459 - INFO - Successfully posted product: "Extro Fusion Bib Cock – Quarter Turn Faucet"
+2025-08-16 16:39:33,461 - INFO - Processing batch 14 (5 products)
+2025-08-16 16:39:33,482 - INFO - Successfully posted product: "Extro Fusion Bib Cock – Long Body"
+2025-08-16 16:39:33,511 - INFO - Successfully posted product: "Extro Fusion Angular Stop Cock"
+2025-08-16 16:39:33,554 - INFO - Successfully posted product: Extro Fusion Pillar Cock
+2025-08-16 16:39:33,589 - INFO - Successfully posted product: Extro Two-Way Bib Cock with Swivel Spout – Sink Mixer
+2025-08-16 16:39:33,617 - INFO - Successfully posted product: Extro Fusion Angle Valve with Dual Outlet
+2025-08-16 16:39:33,618 - INFO - Processing batch 15 (5 products)
+2025-08-16 16:39:33,677 - INFO - Successfully posted product: Extro Fusion Wall Mounted Sink Cock with Swivel Spout
+2025-08-16 16:39:33,711 - INFO - Successfully posted product: Extro Fusion Table Mounted Sink Cock with Swivel Spout 
+2025-08-16 16:39:33,743 - INFO - Successfully posted product: Extro Fusion Table Mounted Sink Mixer with Swivel Spout
+2025-08-16 16:39:33,766 - INFO - Successfully posted product: Extro wall-mounted sink mixer
+2025-08-16 16:39:33,808 - INFO - Successfully posted product: Extro Fusion Wall Mixer with L-Bend for Overhead Shower
+2025-08-16 16:39:33,810 - INFO - Processing batch 16 (5 products)
+2025-08-16 16:39:33,845 - INFO - Successfully posted product: Extro Fusion Wall Mixer with L-Bend and Overhead Shower Provision
+2025-08-16 16:39:33,848 - WARNING - Skipping row 77: Missing title
+2025-08-16 16:39:33,854 - WARNING - Skipping row 78: Missing title
+2025-08-16 16:39:33,859 - WARNING - Skipping row 79: Missing title
+2025-08-16 16:39:33,865 - WARNING - Skipping row 80: Missing title
+2025-08-16 16:39:33,866 - INFO - Processing batch 17 (5 products)
+2025-08-16 16:39:33,893 - INFO - Successfully posted product: "Extro Wall-Mounted Bib Cock"
+2025-08-16 16:39:33,925 - INFO - Successfully posted product: "Extro Long Body Bib Cock"
+2025-08-16 16:39:33,959 - INFO - Successfully posted product: "Extro Angular Stop Cock"
+2025-08-16 16:39:33,980 - INFO - Successfully posted product: "Extro Pillar Tap / Basin Mixer"
+2025-08-16 16:39:33,999 - INFO - Successfully posted product: Extro Two-Way Bib Cock
+2025-08-16 16:39:34,000 - INFO - Processing batch 18 (5 products)
+2025-08-16 16:39:34,034 - INFO - Successfully posted product: Extro Angle Valve with Dual Outlet
+2025-08-16 16:39:34,066 - INFO - Successfully posted product: Extro Fusion Wall Mounted Sink Cock with Swivel Spout
+2025-08-16 16:39:34,093 - INFO - Successfully posted product: Extro premium table-mounted sink cock
+2025-08-16 16:39:34,112 - INFO - Successfully posted product: Extro stylish deck-mounted sink mixer
+2025-08-16 16:39:34,130 - INFO - Successfully posted product: Extro wall-mounted sink mixer
+2025-08-16 16:39:34,130 - INFO - Processing batch 19 (5 products)
+2025-08-16 16:39:34,151 - INFO - Successfully posted product: Extro wall-mounted bath & shower mixer 
+2025-08-16 16:39:34,207 - INFO - Successfully posted product: Extro wall-mounted bath & shower mixer 
+2025-08-16 16:39:34,231 - INFO - Successfully posted product: Extro concealed stop cock
+2025-08-16 16:39:34,234 - WARNING - Skipping row 94: Missing title
+2025-08-16 16:39:34,249 - WARNING - Skipping row 95: Missing title
+2025-08-16 16:39:34,254 - INFO - Processing batch 20 (5 products)
+2025-08-16 16:39:34,256 - WARNING - Skipping row 96: Missing title
+2025-08-16 16:39:34,285 - INFO - Successfully posted product: "Extro Bib Cock – Angular Handle"
+2025-08-16 16:39:34,311 - INFO - Successfully posted product: "Extro Long Body Bib Cock – Angular Handle "
+2025-08-16 16:39:34,333 - INFO - Successfully posted product: "Extro Angular Stop Cock – Angular Handle "
+2025-08-16 16:39:34,367 - INFO - Successfully posted product: "Extro Pillar Cock – Angular Handle "
+2025-08-16 16:39:34,368 - INFO - Processing batch 21 (5 products)
+2025-08-16 16:39:34,399 - INFO - Successfully posted product: Extro 2-in-1 Bib Cock – Angular Handle 
+2025-08-16 16:39:34,429 - INFO - Successfully posted product: Extro 2-in-1 Angle Cock 
+2025-08-16 16:39:34,459 - INFO - Successfully posted product: Extro Sink Cock with Swivel Spout 
+2025-08-16 16:39:34,492 - INFO - Successfully posted product: Extro Sink Cock with Swivel Spout 
+2025-08-16 16:39:34,528 - INFO - Successfully posted product: Extro Swan Neck Tap
+2025-08-16 16:39:34,529 - INFO - Processing batch 22 (5 products)
+2025-08-16 16:39:34,566 - INFO - Successfully posted product: Extro Swan Neck Wall Mixer
+2025-08-16 16:39:34,596 - INFO - Successfully posted product: Extro Wall Mixer with Overhead and Spout
+2025-08-16 16:39:34,626 - INFO - Successfully posted product: Extro Wall Mixer with Crutch & Bend Pipe 
+2025-08-16 16:39:34,629 - WARNING - Skipping row 109: Missing title
+2025-08-16 16:39:34,635 - WARNING - Skipping row 110: Missing title
+2025-08-16 16:39:34,637 - INFO - Processing batch 23 (5 products)
+2025-08-16 16:39:34,646 - WARNING - Skipping row 111: Missing title
+2025-08-16 16:39:34,648 - WARNING - Skipping row 112: Missing title
+2025-08-16 16:39:34,693 - INFO - Successfully posted product: "Extro Brass Chrome-Plated Bib Cock with Lever Handle"
+2025-08-16 16:39:34,728 - INFO - Successfully posted product: "Extro Brass Chrome-Plated Bib Cock with Long body"
+2025-08-16 16:39:34,775 - INFO - Successfully posted product: "Extro Brass Chrome-Plated Angular Stop Cock with Lever Handle"
+2025-08-16 16:39:34,776 - INFO - Processing batch 24 (5 products)
+2025-08-16 16:39:34,816 - INFO - Successfully posted product: "Extro Table Mount Pillar Tap with Lever Handle"
+2025-08-16 16:39:34,849 - INFO - Successfully posted product: Extro 2-Way Bib Cock with Single Lever
+2025-08-16 16:39:34,881 - INFO - Successfully posted product: Extro 2-Way Angle Valve with Single Lever
+2025-08-16 16:39:34,915 - INFO - Successfully posted product: Extro Wall Mounted Sink Cock with Swivel Spout
+2025-08-16 16:39:34,962 - INFO - Successfully posted product: Extro Sink Cock with Swivel Spout 
+2025-08-16 16:39:34,963 - INFO - Processing batch 25 (5 products)
+2025-08-16 16:39:35,008 - INFO - Successfully posted product: Extro Table Mounted Swan Neck Sink Mixer
+2025-08-16 16:39:35,043 - INFO - Successfully posted product: Extro Dual Lever Wall Mounted Swan Neck Sink Mixer
+2025-08-16 16:39:35,078 - INFO - Successfully posted product: Extro Wall Mixer with L Bend and Provision for Overhead Shower
+2025-08-16 16:39:35,123 - INFO - Successfully posted product: Extro Wall Mixer with Crutch for Overhead and Hand Shower (with L Bend)
+2025-08-16 16:39:35,127 - WARNING - Skipping row 125: Missing title
+2025-08-16 16:39:35,132 - INFO - Processing batch 26 (5 products)
+2025-08-16 16:39:35,139 - WARNING - Skipping row 126: Missing title
+2025-08-16 16:39:35,145 - WARNING - Skipping row 127: Missing title
+2025-08-16 16:39:35,147 - WARNING - Skipping row 128: Missing title
+2025-08-16 16:39:35,202 - INFO - Successfully posted product: "Extro Bib Cock"
+2025-08-16 16:39:35,239 - INFO - Successfully posted product: "Extro Long Body Bib Cock"
+2025-08-16 16:39:35,241 - INFO - Processing batch 27 (5 products)
+2025-08-16 16:39:35,278 - INFO - Successfully posted product: Extro Angular Cock
+2025-08-16 16:39:35,310 - INFO - Successfully posted product: Extro Concealed Stop Cock
+2025-08-16 16:39:35,347 - INFO - Successfully posted product: "Extro 2-Way Bib Cock with Dual Control"
+2025-08-16 16:39:35,386 - INFO - Successfully posted product: Extro 2-Way Bib Cock with Dual Control
+2025-08-16 16:39:35,425 - INFO - Successfully posted product: Extro Swan Neck Bib Cock with Wall Flange
+2025-08-16 16:39:35,426 - INFO - Processing batch 28 (5 products)
+2025-08-16 16:39:35,462 - INFO - Successfully posted product: Extro Tall Boy Basin Mixer
+2025-08-16 16:39:35,487 - INFO - Successfully posted product: Extro Basin Mixer with Dual Handle and Pop-Up Waste
+2025-08-16 16:39:35,512 - INFO - Successfully posted product: Extro Wall Mixer with Overhead & Spout
+2025-08-16 16:39:35,541 - INFO - Successfully posted product: Extro Wall Mixer Telephonic with L Bend
+2025-08-16 16:39:35,560 - INFO - Successfully posted product: Extro Wall Mixer Telephonic with Overhead Shower Arm
+2025-08-16 16:39:35,561 - INFO - Processing batch 29 (5 products)
+2025-08-16 16:39:35,566 - WARNING - Skipping row 141: Missing title
+2025-08-16 16:39:35,574 - WARNING - Skipping row 142: Missing title
+2025-08-16 16:39:35,576 - WARNING - Skipping row 143: Missing title
+2025-08-16 16:39:35,578 - WARNING - Skipping row 144: Missing title
+2025-08-16 16:39:35,597 - INFO - Successfully posted product: Extro Concealed Divertor Body for Single Lever 3-inlet
+2025-08-16 16:39:35,598 - INFO - Processing batch 30 (5 products)
+2025-08-16 16:39:35,624 - INFO - Successfully posted product: Extro Concealed Divertor Body for Single Lever 2-inlet
+2025-08-16 16:39:35,644 - INFO - Successfully posted product: Extro Single Lever Concealed Divertor Body 3-Inlet
+2025-08-16 16:39:35,669 - INFO - Successfully posted product: Flora - Extro Single Lever Divertor Trim 2-Function
+2025-08-16 16:39:35,695 - INFO - Successfully posted product: Jio-Extro Single Lever Divertor Trim with Paddle Handle 2-Function
+2025-08-16 16:39:35,725 - INFO - Successfully posted product: Square-Extro Single Lever Divertor Trim with Square Paddle Handle 2-Function
+2025-08-16 16:39:35,726 - INFO - Processing batch 31 (5 products)
+2025-08-16 16:39:35,746 - INFO - Successfully posted product: Nano-Extro Single Lever Divertor Trim with Loop Handle (2-Function)
+2025-08-16 16:39:35,767 - INFO - Successfully posted product: Opal-Extro Single Lever Divertor Trim with Capsule Handle (2-Function)
+2025-08-16 16:39:35,809 - INFO - Successfully posted product: Splash-Extro Single Lever Divertor Trim with Edge Handle
+2025-08-16 16:39:35,813 - WARNING - Skipping row 154: Missing title
+2025-08-16 16:39:35,824 - WARNING - Skipping row 155: Missing title
+2025-08-16 16:39:35,825 - INFO - Processing batch 32 (5 products)
+2025-08-16 16:39:35,895 - INFO - Successfully posted product: Extro Short Body Bib Tap
+2025-08-16 16:39:35,945 - INFO - Successfully posted product: Extro Long Body Bib Tap
+2025-08-16 16:39:35,976 - INFO - Successfully posted product: Extro Nozzle Bib Cock
+2025-08-16 16:39:36,011 - INFO - Successfully posted product: "Plastic Short Body Pillar Tap – Table Mounted (White)"
+2025-08-16 16:39:36,040 - INFO - Successfully posted product: Extro 2-Way Bib Cock with Dual Control
+2025-08-16 16:39:36,041 - INFO - Processing batch 33 (5 products)
+2025-08-16 16:39:36,070 - INFO - Successfully posted product: Extro Angular 2-Way Bib Cock
+2025-08-16 16:39:36,138 - INFO - Successfully posted product: "Plastic Swan Neck Tap – Wall Mounted (White)"
+2025-08-16 16:39:36,177 - INFO - Successfully posted product: "Plastic Swan Neck Pillar Tap – White with Chrome Ring"
+2025-08-16 16:39:36,205 - INFO - Successfully posted product: Extro Angular Stop Cock
+2025-08-16 16:39:36,242 - INFO - Successfully posted product: "Extro Short Body Bib Cock (Blue & White)"
+2025-08-16 16:39:36,242 - INFO - Processing batch 34 (5 products)
+2025-08-16 16:39:36,274 - INFO - Successfully posted product: "Extro Long Body Bib Cock (Blue & White)"
+2025-08-16 16:39:36,363 - INFO - Successfully posted product: "Extro Nozzle Bib Cock (Blue & White)"
+2025-08-16 16:39:36,408 - INFO - Successfully posted product: Extro PTMT Sink Cock (Blue & White)
+2025-08-16 16:39:36,427 - INFO - Successfully posted product: Extro PTMT 2-in-1 Bib Cock with Wall Hook
+2025-08-16 16:39:36,445 - INFO - Successfully posted product: Extro PTMT Angle 2-in-1 Faucet (Blue & White)
+2025-08-16 16:39:36,446 - INFO - Processing batch 35 (5 products)
+2025-08-16 16:39:36,476 - INFO - Successfully posted product: Extro PTMT Swan Neck Wall Mounted Tap (Blue & White)
+2025-08-16 16:39:36,493 - INFO - Successfully posted product: Extro PTMT Swan Neck Pillar Tap (Blue & White)
+2025-08-16 16:39:36,512 - INFO - Successfully posted product: Extro PTMT Angle Cock with Wall Flange (Blue & White)
+2025-08-16 16:39:36,530 - INFO - Successfully posted product: "Plastic Short Body Bib Cock – Wall Mounted (Blue & White)"
+2025-08-16 16:39:36,558 - INFO - Successfully posted product: "Plastic Long Body Bib Cock – Wall Mounted (Blue & White)"
+2025-08-16 16:39:36,558 - INFO - Processing batch 36 (5 products)
+2025-08-16 16:39:36,580 - INFO - Successfully posted product: "Plastic Bib Cock with Nozzle – Wall Mounted (Blue & White)"
+2025-08-16 16:39:36,596 - INFO - Successfully posted product: Plastic Swan Neck Tap – Pillar Mounted (Blue & White)
+2025-08-16 16:39:36,625 - INFO - Successfully posted product: Plastic 2-in-1 Angle Bib Cock with Nozzle – Wall Mounted (Blue & White)
+
+2025-08-16 16:39:36,642 - INFO - Successfully posted product: Plastic 2-Way Angle Valve Bib Cock – Wall Mounted (Blue & White)
+2025-08-16 16:39:36,662 - INFO - Successfully posted product: Plastic Sink Cock Tap – Wall Mounted (Blue & Ivory Finish)
+2025-08-16 16:39:36,663 - INFO - Processing batch 37 (5 products)
+2025-08-16 16:39:36,692 - INFO - Successfully posted product: Plastic Swan Neck Sink Tap – Table Mounted (Blue & Ivory)
+2025-08-16 16:39:36,715 - INFO - Successfully posted product: Plastic Angular Stop Cock – Wall Mounted (Blue & Ivory)
+2025-08-16 16:39:36,743 - INFO - Successfully posted product: Plastic Short Body Bib Tap – Wall Mounted (Blue & Ivory)
+2025-08-16 16:39:36,766 - INFO - Successfully posted product: "Extro Plastic Bib Cock – Yellow & White Body"
+2025-08-16 16:39:36,795 - INFO - Successfully posted product: "Extro Plastic Bib Cock – Yellow & White Body"
+2025-08-16 16:39:36,796 - INFO - Processing batch 38 (5 products)
+2025-08-16 16:39:36,821 - INFO - Successfully posted product: "Extro Plastic Angular Stop Cock – Yellow & White (Wall Mounted)"
+2025-08-16 16:39:36,837 - INFO - Successfully posted product: Plastic 2-Way Angle Cock – Dual Control (Yellow & White)
+2025-08-16 16:39:36,858 - INFO - Successfully posted product: Extro Plastic 2-Way Bib Cock with Nozzle (Yellow & White)
+2025-08-16 16:39:36,879 - INFO - Successfully posted product: Extro Plastic Swan Neck Tap (Yellow & White)
+2025-08-16 16:39:36,909 - INFO - Successfully posted product: Extro Plastic Centre Control Swan Neck Tap (Yellow & White)
+2025-08-16 16:39:36,910 - INFO - Processing batch 39 (5 products)
+2025-08-16 16:39:36,943 - INFO - Successfully posted product: "Extro Overhead Square Rain Shower Head – Chrome Finish"
+2025-08-16 16:39:36,967 - INFO - Successfully posted product: "Extro Overhead Square Rain Shower Head – Chrome Finish"
+2025-08-16 16:39:36,993 - INFO - Successfully posted product: "Extro Overhead Square Rain Shower Head – Chrome Finish"
+2025-08-16 16:39:37,023 - INFO - Successfully posted product: "Extro Overhead Square Rain Shower Head – Chrome Finish"
+2025-08-16 16:39:37,056 - INFO - Successfully posted product: "Extro Wall-Mount Round Overhead Shower with Arm – Chrome Finish"
+2025-08-16 16:39:37,058 - INFO - Processing batch 40 (5 products)
+2025-08-16 16:39:37,090 - INFO - Successfully posted product: "Extro Wall-Mount Slim Round Overhead Shower"
+2025-08-16 16:39:37,124 - INFO - Successfully posted product: Extro Round Multi-Flow Hand Shower – Chrome
+2025-08-16 16:39:37,159 - INFO - Successfully posted product: Extro Matte Black Hand Shower
+2025-08-16 16:39:37,197 - INFO - Successfully posted product: Extro Flexible Shower Hose – Matte Black
+2025-08-16 16:39:37,228 - INFO - Successfully posted product:  Extro Premium Health Faucet – Chrome
+2025-08-16 16:39:37,231 - INFO - Processing batch 41 (5 products)
+2025-08-16 16:39:37,264 - INFO - Successfully posted product: Extro Soft-Jet Health Faucet – Chrome with Soft Blue Accents
+2025-08-16 16:39:37,298 - INFO - Successfully posted product: Extro Aqua-Jet Health Faucet – Sleek Chrome Body with Beige Accents
+2025-08-16 16:39:37,334 - INFO - Successfully posted product: Extro Stainless Steel Shower Tube – 1.5 Meter
+2025-08-16 16:39:37,365 - INFO - Successfully posted product: "Extro Curve Spout Single Lever Sink Mixer – Chrome Handle"
+2025-08-16 16:39:37,397 - INFO - Successfully posted product: "Extro Square Neck Single Lever Sink Mixer – Flat Handle"
+2025-08-16 16:39:37,398 - INFO - Processing batch 42 (5 products)
+2025-08-16 16:39:37,428 - INFO - Successfully posted product: "Extro Curve Spout Single Lever Sink Mixer – White Handle"
+2025-08-16 16:39:37,437 - WARNING - Skipping row 207: Missing title
+2025-08-16 16:39:37,440 - WARNING - Skipping row 208: Missing title
+2025-08-16 16:39:37,449 - WARNING - Skipping row 209: Missing title
+2025-08-16 16:39:37,452 - WARNING - Skipping row 210: Missing title
+2025-08-16 16:39:37,457 - INFO - Processing batch 43 (5 products)
+2025-08-16 16:39:37,462 - WARNING - Skipping row 211: Missing title
+2025-08-16 16:39:37,463 - WARNING - Skipping row 212: Missing title
+2025-08-16 16:39:37,471 - WARNING - Skipping row 213: Missing title
+2025-08-16 16:39:37,475 - WARNING - Skipping row 214: Missing title
+2025-08-16 16:39:37,476 - WARNING - Skipping row 215: Missing title
+2025-08-16 16:39:37,477 - INFO - Processing batch 44 (5 products)
+2025-08-16 16:39:37,481 - WARNING - Skipping row 216: Missing title
+2025-08-16 16:39:37,487 - WARNING - Skipping row 217: Missing title
+2025-08-16 16:39:37,488 - WARNING - Skipping row 218: Missing title
+2025-08-16 16:39:37,492 - WARNING - Skipping row 219: Missing title
+2025-08-16 16:39:37,496 - WARNING - Skipping row 220: Missing title
+2025-08-16 16:39:37,497 - INFO - Processing batch 45 (2 products)
+2025-08-16 16:39:37,499 - WARNING - Skipping row 221: Missing title
+2025-08-16 16:39:37,504 - WARNING - Skipping row 222: Missing title
+2025-08-16 16:39:37,505 - INFO - ==================================================
+2025-08-16 16:39:37,508 - INFO - UPLOAD COMPLETED
+2025-08-16 16:39:37,509 - INFO - Total Products: 222
+2025-08-16 16:39:37,509 - INFO - Successful Uploads: 172
+2025-08-16 16:39:37,510 - INFO - Failed Uploads: 50
+2025-08-16 16:39:37,511 - INFO - Success Rate: 77.5%
+2025-08-16 16:39:37,511 - INFO - ==================================================
